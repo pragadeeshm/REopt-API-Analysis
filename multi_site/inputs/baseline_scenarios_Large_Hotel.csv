@@ -1,0 +1,16 @@
+site_number,Site|latitude,Site|longitude,description,ElectricTariff|urdb_label,ElectricTariff|urdb_utility_name,Generator|max_kw,LoadProfile|doe_reference_name,LoadProfile|year,PV|max_kw,PV|min_kw,Storage|max_kw,Storage|max_kwh,Storage|min_kw,Storage|min_kwh
+1,33.84,-117.91,Anaheim,5e10943e5457a3ca49fa5c5e,SCE,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+2,37.77,-122.42,SanFrancisco,5e1676285457a3223473e3b0,PG&E,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+3,40.71,-74.01,New York,5b96ba975457a32a55f08eac,ConEd,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+4,25.79,-80.23,Miami,5d9d02085457a30e1b598dcf,Florida Power & Light,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+5,33.45,-112.07,Phoenix,5cf831d25457a3612f26c07e,Salt River Project,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+6,33.75,-84.39,Atlanta,539fb64fec4f024bc1dbff15,Georgia Power Co.,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+7,33.93,-118.4,LosAngeles,5cd3057b5457a32d0554e9da,LA Dept. Water & Power,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+8,40.01,-105.27,Boulder,5e6134175457a3cf56019407,Xcel,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+9,40.01,-105.27,Boulder,5e611a915457a3cf56019406,Xcel,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+10,36.11,-115.17,LasVegas,5ddda5855457a3022e7f9d1e,NV Energy,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+11,46.6,-112.03,Helena,5d603e615457a36574f1ab35,NorthWestern Energy Service,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+12,44.98,-93.26,Minneapolis,5c51e7d65457a3ee5b06d70b,Xcel (Northern States),0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+13,47.61,-122.33,Seattle,5c75601f5457a3c77af3afb0,City of Seattle,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+14,39.29,-76.61,Baltimore,5d5470a45457a3674635a087,Baltimore Gas & Elec.,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
+15,41.85,-87.65,Chicago,5cc769cf5457a34a0ee327e1,ComEd,0,LargeHotel,2019,1000000000,0,1000000,1000000,0,0
