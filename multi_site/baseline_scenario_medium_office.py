@@ -10,7 +10,7 @@ Change these values
 ##############################################################################################################
 API_KEY = 'DEMO KEY'  # REPLACE WITH YOUR API KEY
 inputs_path = os.path.join('inputs')
-outputs_path = os.path.join('outputs')
+outputs_path = os.path.join('Ref_Profile_Medium_Office')
 output_template = os.path.join(outputs_path, 'results_template.csv')
 output_file = os.path.join(outputs_path, 'results_summary.csv')
 ##############################################################################################################
