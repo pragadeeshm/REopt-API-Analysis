@@ -9,7 +9,7 @@ communities, and microgrids. REopt can be accessed in many ways:
   
 This repository includes useful guidance and example scripts for using REopt's API and Julia package. Please see the [wiki](https://github.com/NatLabRockies/REopt-Analysis-Scripts/wiki) for additional information and setup steps. 
 
-[Open a cloud-hosted Jupyter Notebook to interface with the API using Google Colab](https://colab.research.google.com/github/NREL/REopt-Analysis-Scripts/blob/master/REopt%20API%20Scripts/google_colab_simple_examples.ipynb)
+[Open a cloud-hosted Jupyter Notebook to interface with the API using Google Colab](https://colab.research.google.com/github/NatLabRockies/REopt-Analysis-Scripts/blob/HEAD/REopt%20API%20Scripts/google_colab_simple_examples.ipynb)
 
 If you instead wish to develop and use these codebases locally, see instructions [here](https://github.com/NatLabRockies/REopt_API/blob/master/README.md).
 
