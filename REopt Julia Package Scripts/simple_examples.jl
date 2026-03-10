@@ -1,7 +1,7 @@
 """
 The REopt Julia package optimizes distributed energy resources to minimize the lifecycle cost of energy at a site.
 This file provides an example of how to use REopt.jl.
-See the package documentation for more information: https://nrel.github.io/REopt.jl/stable/ 
+See the package documentation for more information: https://natlabrockies.github.io/REopt.jl/stable/ 
 You will need Julia installed to run this.
 
 ### Follow these steps for this example ###
